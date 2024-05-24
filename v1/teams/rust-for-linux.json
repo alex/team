@@ -1,0 +1,24 @@
+{
+  "name": "rust-for-linux",
+  "kind": "marker_team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Alice Ryhl",
+      "github": "Darksonn",
+      "github_id": 928074,
+      "is_lead": false
+    },
+    {
+      "name": "Miguel Ojeda",
+      "github": "ojeda",
+      "github_id": 1054456,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": null,
+  "website_data": null,
+  "roles": [],
+  "discord": []
+}
